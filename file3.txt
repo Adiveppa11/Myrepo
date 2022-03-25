@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello 
+=======
+hello
+hi by dev2
+123
+>>>>>>> 4f120db55ef7716b3555730a5ed3898b71acfc90
